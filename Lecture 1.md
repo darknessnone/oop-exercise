@@ -4,7 +4,7 @@
 
 ####1. Suppose that you want to write an A+B program, which get A and B from command-line argument, how to complete the task? Please give an example of the source code, as well as how to compile and run the program.    
 
-	//a.cpp
+    //a.cpp
 	#include <iostream>
 	#include <cstdlib>
     #include <cstdio>
@@ -220,7 +220,7 @@ The compiler will search from the standard library directory. This way is used i
 		
 	#endif  
 
-###
+### 
 	/*  main.cpp  */
 	#include <iostream>
 	#include "mylib.h"
@@ -232,7 +232,7 @@ The compiler will search from the standard library directory. This way is used i
 		return 0;
 	}
 
-###
+### 
 	/* makefile */
 
 	all:main
@@ -245,7 +245,7 @@ The compiler will search from the standard library directory. This way is used i
 
 
 
-###
+## 
 	/*生成二进制文件*/
 	all: main
 	main: main.o class1.o class2.o
@@ -259,7 +259,7 @@ The compiler will search from the standard library directory. This way is used i
 	clean:
 		rm *.o main  
 
-###
+### 
 	/*利用库文件生成二进制文件*/
 	sSOURCES=$(wildcard *.cpp)
 	HEADERS=$(wildcard *.h)
