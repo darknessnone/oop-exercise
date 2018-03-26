@@ -130,7 +130,7 @@ Options starting with -g, -f, -m, -O, -W, or --param are automatically passed on
 
 
 
-### Multi-file project
+## Multi-file project
 
 #### 8.	Assume that there are main.cpp, sum.cpp, product.cpp, and functions.h, please write down the command to compile them into main.exe with g++.    
 
@@ -182,7 +182,7 @@ Options starting with -g, -f, -m, -O, -W, or --param are automatically passed on
 The compiler will search from the user’s working directory. If not found to include a directory to find. This way is used if we want to include header files we wrote by ourselves.
 - \#include <>:  
 The compiler will search from the standard library directory. This way is used if we want to include header files in the standard library.
-###	Make and makefile
+##	Make and makefile
 #### 15.	Please explain the dependency rules of make.  
 
 - the one in front of the colon is the target. if it’s date is later than any dependencies after the colon or they don’t exist, it will find the missing file/ out-of-date file to generate it. only when the files are all up-to-date will target be generated. 
