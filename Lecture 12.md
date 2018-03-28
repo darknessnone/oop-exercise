@@ -41,7 +41,9 @@ Template Method lets subclasses redefine certain steps of an algorithm without c
 
 
 #### 6. Please give an example using template method design pattern.
-![image][tmp6]
+
+<!--  ![image][tmp6]  -->
+![12-6](https://raw.githubusercontent.com/darknessnone/oop-exercise/master/12-6.jpg)
  
 
 #### 7. List some typical situations where template pattern is useful or necessary.
@@ -51,7 +53,9 @@ Template Method lets subclasses redefine certain steps of an algorithm without c
 
 
 #### 8. Plot a typical UML class diagram with template pattern for a general situation.
-![image][tmp8]
+
+<!--  ![image][tmp8]  -->
+![12-8](https://raw.githubusercontent.com/darknessnone/oop-exercise/master/12-8.png)
  
  
  
@@ -63,7 +67,9 @@ Before and after providing access to the object, different tasks can be added fo
 
 
 #### 10. Please give an example using proxy pattern.
-![image][tmp10]
+
+<!--  ![image][tmp10]  -->
+![12-10](https://raw.githubusercontent.com/darknessnone/oop-exercise/master/12-10.jpg)
  
 
 #### 11. List some typical situations where proxy pattern is useful or necessary.
@@ -74,7 +80,9 @@ Before and after providing access to the object, different tasks can be added fo
 
 
 #### 12. Plot a typical UML class diagram with proxy pattern for a general situation
-![image][tmp12]
+
+<!--  ![image][tmp12]  -->
+![12-12](https://raw.githubusercontent.com/darknessnone/oop-exercise/master/12-12.png)
  
 
 #### 13. What is the main difference between proxy and adapter?
