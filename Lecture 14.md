@@ -94,7 +94,7 @@ The general form state as follow:
 
 #### 11. Please plot the UML class diagram for the iterator design pattern.
 
-![image][tmp11] 
+<![image][tmp11] >
  ![14-11](https://raw.githubusercontent.com/darknessnone/oop-exercise/master/14-11.png)
 #### 12. Plese implement a general “count_if” algorithm using template along with the iterator design pattern.
 
