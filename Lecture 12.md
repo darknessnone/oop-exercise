@@ -1,4 +1,4 @@
-#Lecture 12
+# Lecture 12
 ##	Strategy
 #### 1.	What is the basic function (功能) of strategy pattern?
 
