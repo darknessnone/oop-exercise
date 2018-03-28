@@ -30,9 +30,9 @@ Strategy Pattern: define a family of algorithms, encapsulate each one, and make 
 -	Have a family of algorithms to solve a problem and need to choose one of them easily.
 
 #### 4. Plot a typical UML class diagram with strategy pattern for a general situation
-![image][tmp4]
- 
 
+< !--  ![image][tmp4]  -- >
+![12-4](https://raw.githubusercontent.com/darknessnone/oop-exercise/master/12-4.png)
 ##	Template method
 #### 5. What is the basic function (功能) of template pattern?
 Define skeleton (骨架) of an algorithm  
